@@ -6,7 +6,7 @@
 - CSS (with CSS Grid)
 
 ## Live Preview
-
+(https://gyanendu01.github.io/Css-Grid-Project/)
 
 ## Installation
 
